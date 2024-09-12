@@ -1,1 +1,3 @@
 # simulations
+
+I want a central place to write code that implements ideas I'm learning about engineering modeling & design. I have lofty ambitions for this little repository... 
